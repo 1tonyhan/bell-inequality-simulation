@@ -4,7 +4,7 @@ Summer project - July 2025.
 In this project, I explore the basics of quantum computing and how experimentation around the bell inequality (through qiskit and using IBM cloud server QPUs) demonstrates violation of
 classical mechanic behaviour - pointing to quantum behaviour, namely, entanglement. 
 
-Here is a brief summary of the bell inequality, and experiments surrounding it:
+Here is a brief summary of the bell inequality as I understand it:
 
 I will use the example of a particle with a spin of 0 that decays into two separate but entangled particles with spin of +/- 1/2. (+ is spin up, - is spin down) For simplicity, 
 I will call these particles A and B henceforth. I will also set the premise that there is an assumption of no other angular momentum other than spin in this situation; meaning spin is conserved.
