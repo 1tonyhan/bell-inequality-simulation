@@ -20,3 +20,6 @@ Here is a timeline of this project, for those why may be interested (dd/mm/yyyy)
 
 
 Here is a list of resources I used to complete this project:
+https://www.youtube.com/watch?v=pS69lqCMdy8 - IBM video on bell's inequality
+https://www.youtube.com/watch?v=qd-tKr0LJTM - Bell's inequality by a professor on youtube
+https://medium.com/quantum-untangled/quantum-states-and-the-bloch-sphere-9f3c0c445ea3 bloch spheres
