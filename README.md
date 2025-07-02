@@ -15,9 +15,9 @@ state of the other particle. For example, if A is measured as up spin, B must be
 
 
 Here is a timeline of this project, for those why may be interested (dd/mm/yyyy):
-  30/06/2025 - Research of bell states, focus on tensor product and mathematical matrix representation of two qubit system states. Correlation and anticorrelation.
-  01/07/2025 - Research of bell states, how to create an entangled two qubit system using two qubits, a hadamard gate, and a CNOT gate. Learned how the gates function. Matrix representation
+  \\30/06/2025 - Research of bell states, focus on tensor product and mathematical matrix representation of two qubit system states. Correlation and anticorrelation.
+  \\01/07/2025 - Research of bell states, how to create an entangled two qubit system using two qubits, a hadamard gate, and a CNOT gate. Learned how the gates function. Matrix representation
   of CNOT gates, more linear algebra concerning qubit states.
-  02/07/2025 - Basic proper notation of regular and superposition states, how the bell states are properly expressed in this notation. eg. |Φ⁺〉 = ( |00〉 + |11〉 ) / √2
-  03/07/2025 - installation and learning of how to use qiskit and python, and how to link to IBM cloud servers to access real quantum hardware
+  \\02/07/2025 - Basic proper notation of regular and superposition states, how the bell states are properly expressed in this notation. eg. |Φ⁺〉 = ( |00〉 + |11〉 ) / √2
+  \\03/07/2025 - installation and learning of how to use qiskit and python, and how to link to IBM cloud servers to access real quantum hardware
   
