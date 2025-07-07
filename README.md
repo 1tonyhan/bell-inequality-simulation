@@ -24,8 +24,8 @@ Here is a timeline of this project, for those why may be interested (dd/mm/yyyy)
   *
 
 
-Here is a list of resources I used to complete this project:
-https://www.youtube.com/watch?v=pS69lqCMdy8 - IBM video on bell's inequality
-https://www.youtube.com/watch?v=qd-tKr0LJTM - Bell's inequality by a professor on youtube
-https://medium.com/quantum-untangled/quantum-states-and-the-bloch-sphere-9f3c0c445ea3 - Bloch Spheres
-https://qubit.guide/6.3-chsh-inequality - CHSH Inequality; online textbook
+Here is a list of resources I used to complete this project:<br />
+https://www.youtube.com/watch?v=pS69lqCMdy8 - IBM video on bell's inequality<br />
+https://www.youtube.com/watch?v=qd-tKr0LJTM - Bell's inequality by a professor on youtube<br />
+https://medium.com/quantum-untangled/quantum-states-and-the-bloch-sphere-9f3c0c445ea3 - Bloch Spheres<br />
+https://qubit.guide/6.3-chsh-inequality - CHSH Inequality; online textbook<br />
