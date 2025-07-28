@@ -15,13 +15,14 @@ Imagine A and B end up in two completely different places, and are being observe
 
 
 Here is a timeline of this project, for those why may be interested (dd/mm/yyyy):<br />
-  *30/06/2025 - Research of bell states, focus on tensor product and mathematical matrix representation of two qubit system states. Correlation and      anticorrelation. <br />
-  *01/07/2025 - Research of bell states, how to create an entangled two qubit system using two qubits, a hadamard gate, and a CNOT gate. Learned how     the gates function. Matrix representation of CNOT gates, more linear algebra concerning qubit states. <br />
-  *02/07/2025 - Basic proper notation of regular and superposition states, how the bell states are properly expressed in this notation. eg. |Φ⁺〉 = 
+  -30/06/2025 - Research of bell states, focus on tensor product and mathematical matrix representation of two qubit system states. Correlation and      anticorrelation. <br />
+  -01/07/2025 - Research of bell states, how to create an entangled two qubit system using two qubits, a hadamard gate, and a CNOT gate. Learned how     the gates function. Matrix representation of CNOT gates, more linear algebra concerning qubit states. <br />
+  -02/07/2025 - Basic proper notation of regular and superposition states, how the bell states are properly expressed in this notation. eg. |Φ⁺〉 = 
   |00〉 + |11〉 ) / √2 <br />
-  *03/07/2025 - installation and learning of how to use qiskit and python, and how to link to IBM cloud servers to access real quantum hardware. <br />
-  *07/07/2025 - Research of Bloch Spheres to improve understanding of quantum states. <br />
-  *
+  -03/07/2025 - installation and learning of how to use qiskit and python, and how to link to IBM cloud servers to access real quantum hardware. <br />
+  -07/07/2025 - Research of Bloch Spheres to improve understanding of quantum states. <br />
+  -07/28/2025 - Research of the CHSH Inequality: more experimentally friendly version of the Bell inequality <br />
+  
 
 
 Here is a list of resources I used to complete this project:<br />
@@ -30,3 +31,5 @@ https://www.youtube.com/watch?v=qd-tKr0LJTM - Bell's inequality by a professor o
 https://medium.com/quantum-untangled/quantum-states-and-the-bloch-sphere-9f3c0c445ea3 - Bloch Spheres<br />
 https://qubit.guide/6.3-chsh-inequality - CHSH Inequality; online textbook<br />
 https://www.youtube.com/watch?v=EPG8ELV_9oM - CHSH Inequality video <br />
+https://www.youtube.com/watch?v=WT91B2tyO2k - CHSH experiment video <br />
+
