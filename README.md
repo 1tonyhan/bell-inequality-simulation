@@ -51,7 +51,7 @@ Here is a timeline of this project, for those why may be interested (dd/mm/yyyy)
   -07/07/2025 - Research of Bloch Spheres to improve understanding of quantum states. <br />
   -07/28/2025 - Research of the CHSH Inequality: more experimentally friendly version of the Bell inequality <br />
 
-Here, I took a vacation, and then school started, where I started focusing on my studies more. I resumed this project much later after adjusting to my engineering physics workload, and finishing my first round of midterms.
+Here, I was on vacation with my family (I went to various places in France and Italy!), and then school started, where I started focusing on my studies more. I resumed this project much later after adjusting to my engineering physics workload, and finishing my first round of midterms.
   
   -10/23/2025 - Review of the CHSH experiment, using the IBM video. Followed the IBM tutorial and set up a virtual environment .venv for a jupyterNotebook, and actually performed the CHSH experiment on IBM QPUs by linking my IBM quantum platform account to the code. Plotted results.
   -10/25/2025 - Updated this ReadMe file, and further consolidated my understanding of how the upper bounds for hidden variable theory vs quantum mechanics was determined. I am still slightly confused about the quantum mechanics upper bound, so I will revisit tomorrow.
