@@ -11,11 +11,22 @@ First, to set the stage: I will use the example of a particle with a spin of 0 t
 
 Imagine A and B end up in two completely different places, and are being observed by two different people. These two people will observe the particles and measure their spin along an axis - lets say the vertical Z axis for now. This intrinsic property of angular momentum, once measured in one particle, will reveal the spin of the other particle due to conservation - for example, if A is measured to have spin up along Z, B must be measured to have spin down along Z (and vice versa) since they decayed from a 0 spin particle. Their spins must add to 0. Okay, so this tells us very little; only that spin is conserved.
 
-Now what if we set 3 axis of measurement rather than 1? Now, even with the measurement along any axis to be either up or down, there are a lot more possible combinations of measurements. Say the observers of A and B can choose to measure the spin of their particle along any of the 3 axes, independently of whichever axis the other observer chooses to measure along (recall they are really far away from each other, no communication!). One can postulate that in this case, there is a certain maximum probability that A and B are measured to have the same spin. So what is this maximum probability?
+Now what if we set 3 axis of measurement rather than 1? Now, even with the measurement along any axis to be either up or down, there are a lot more possible combinations of measurements. Say the observers of A and B can choose to measure the spin of their particle along any of the 3 axes, independently of whichever axis the other observer chooses to measure along (recall they are really far away from each other, no communication!). Then, they send ONLY their value (either up or down) to a third observer. The observer recieves no information about which axis, only the spin state.
+
+One can postulate that in this case, there is a certain maximum probability that the values the third observer recieves are the same! What is this maximum probability?
 
 Well we have two theories to explain this. One is hidden variable theory, and the other is quantum mechanics. What are any of these? I will try my best to explain that here:
 
-Hidden variable theory is like a set of rules that A and B must obey. For example, one rule is that if A is measured to have spin up along Z, B must be measured to have spin down along Z. (provided they started from a spin 0 particle). As such, 
+Hidden variable theory is like a set of rules that A and B must obey. For example, one rule is that if A is measured to have spin up along Z, B must be measured to have spin down along Z. (provided they started from a spin 0 particle). With this logic, we can build a set of rules for these 2 particles A and B. Essentially, this set shows all the possible states of the axes for A, and then all the corresponding possible states of the axes for B.
+
+**insert table here**
+
+From this table, we can obtain the possibilities that the observer recieves the same value from the people looking at A and B. Basically, in any given row, if you pick one of the three values from A, and one of the three values from B, the probability they are the same number is 4/9 for all but the cases in the first and last rows. So this is the maximum possibility that the observer recieves the same number from A and B, if hidden variable theory is followed; an upper bound in this theory.
+
+Now, for quantum mechanics: it turns out, if we look at the quantum mechanics side of things, the probability that this observer recieves the same number from A and B can exceed 4/9! How does this happen?
+
+
+
 
 
 
@@ -50,4 +61,7 @@ https://medium.com/quantum-untangled/quantum-states-and-the-bloch-sphere-9f3c0c4
 https://qubit.guide/6.3-chsh-inequality - CHSH Inequality; online textbook<br />
 https://www.youtube.com/watch?v=EPG8ELV_9oM - CHSH Inequality video <br />
 https://www.youtube.com/watch?v=WT91B2tyO2k - CHSH experiment video <br />
+
+Generative AI was used in the following way:
+I learned the content from websites or videos, and asked ChatGPT to listen to me explain the topics to it, and give me critique on what I understand vs what I don't. I was able to consolidate my knowledge much more effectively this way.
 
