@@ -21,7 +21,7 @@ Hidden variable theory is like a set of rules that A and B must obey. For exampl
 
 **insert table here**
 
-From this table, we can obtain the possibilities that the observer recieves the same value from the people looking at A and B. Basically, in any given row, if you pick one of the three values from A, and one of the three values from B, the probability they are the same number is 4/9 for all but the cases in the first and last rows. So this is the maximum possibility that the observer recieves the same number from A and B, if hidden variable theory is followed; an upper bound in this theory. [^1]
+From this table, we can obtain the possibilities that the observer recieves the same value from the people looking at A and B. Basically, in any given row, if you pick one of the three values from A, and one of the three values from B, the probability they are the same number is 4/9 for all but the cases in the first and last rows. So this is the maximum possibility that the observer recieves the same number from A and B, if hidden variable theory is followed; an upper bound in this theory. <sup>[1](#note_about_bounds)</sup>
 
 Now, for quantum mechanics: it turns out, if we look at the quantum mechanics side of things, the probability that this observer recieves the same number from A and B can exceed 4/9! How does this happen?
 
@@ -64,4 +64,8 @@ https://www.youtube.com/watch?v=WT91B2tyO2k - CHSH experiment video <br />
 
 Generative AI was used in the following way:
 I learned the content from websites or videos, and asked ChatGPT to listen to me explain the topics to it, and give me critique on what I understand vs what I don't. I was able to consolidate my knowledge much more effectively this way.
+
+
+
+<a name="note_about_bounds">1</a>: Here, I realized much later into the project that with IBM's tutorial, they recreate a more accessible experiment/visualization of bell's theorem with 3 axes rather than the original 2. I looked up the reason for this, and it was because scientists realized that with three equally spaces axes, measurements are rotationally invariant and generally more stable to test. This means the newer method is a lot more realistic to obtain results efficiently/effectively in the lab.  Why does this matter? with three angles, we have a different upper bound - 
 
