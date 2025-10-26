@@ -1,4 +1,5 @@
-Welcome to my CHSH project! I have a few files, and I have numbered them in the order you should read them!
+#Welcome to my CHSH project! I have a few files, and I have numbered them in the order you should read them!
+
 <br />
 
 The first file contains the summary of the project, which is essentially what I learned. I think the learning process was definitely tedious at first, but it got interesting quite quickly. In this file,
