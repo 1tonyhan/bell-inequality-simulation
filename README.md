@@ -1,17 +1,34 @@
 # Bell's Theorem and the CHSH Inequality
 Summer project - July 2025.
 
-In this project, I explore the basics of quantum computing and how experimentation around Bell's theorem (through qiskit and using IBM cloud server QPUs) demonstrates violation of classical behaviour - pointing to non-classical behaviour, namely, entanglement. 
+In this project, I explore the basics of quantum computing and how experimentation around Bell's theorem (through qiskit and using IBM cloud server QPUs) demonstrates violation of classical behaviour - pointing to non-classical behaviour, namely, entanglement.  
 
-For this project, I have set up a single quantum circuit through Qiskit using Python. With this circuit, I used IBM's cloud server access to test the CHSH inequality and recorded my results. After placing the data in matlab to visualize it, 
+For this project, I followed IBM Quantum Platform's CHSH experiment tutorial, which I have linked at the very bottom of this readme, along with all of the other resources I used for this project. 
 
-Here is a brief summary of the Bell theorem as I understand it:
+Here is a summary of the Bell theorem as I understand it:
 
-First, to set the stage: I will use the example of a particle with a spin of 0 that decays into two separate but entangled particles with spin of +/- 1/2. (+ is spin up, - is spin down) For simplicity, I will call these particles A and B henceforth. I will also set the premise that there is an assumption of no other angular momentum other than spin in this situation; meaning spin is conserved.
+First, to set the stage: I will use the example of a particle with a spin of 0 that decays into two smaller, separate particles with spin up or down. For simplicity, I will call these particles A and B henceforth. I will also set the premise that there is an assumption of no other angular momentum other than spin in this situation; meaning spin is conserved. This is an ideal assumption and makes this topic easier for me to understand.
 
-Imagine A and B end up in two completely different places, and are being observed by two different people. These two people will observe the particles and measure their spin. This intrinsic property of angular momentum, once measured in one particle, will reveal the spin of the other particle due to conservation - this is entanglement; taking a measurement on one particle instantly reveals the state of the other particle. For example, if A is measured as up spin, B must be measured as down spin (and vice versa) since they decayed from a 0 spin particle.
+Imagine A and B end up in two completely different places, and are being observed by two different people. These two people will observe the particles and measure their spin along an axis - lets say the vertical Z axis for now. This intrinsic property of angular momentum, once measured in one particle, will reveal the spin of the other particle due to conservation - for example, if A is measured to have spin up along Z, B must be measured to have spin down along Z (and vice versa) since they decayed from a 0 spin particle. Their spins must add to 0. Okay, so this tells us very little; only that spin is conserved.
+
+Now what if we set 3 axis of measurement rather than 1? Now, even with the measurement along any axis to be either up or down, there are a lot more possible combinations of measurements. Say the observers of A and B can choose to measure the spin of their particle along any of the 3 axes, independently of whichever axis the other observer chooses to measure along (recall they are really far away from each other, no communication!). One can postulate that in this case, there is a certain maximum probability that A and B are measured to have the same spin. So what is this maximum probability?
+
+Well we have two theories to explain this. One is hidden variable theory, and the other is quantum mechanics. What are any of these? I will try my best to explain that here:
+
+Hidden variable theory is like a set of rules that A and B must obey. For example, one rule is that if A is measured to have spin up along Z, B must be measured to have spin down along Z. (provided they started from a spin 0 particle). As such, 
+
+
 
 ...
+
+[^1] Here, I realized much later into the project that with IBM's tutorial, they recreate a more accessible experiment/visualization of bell's theorem with 3 axes rather than the original 2. I looked up the reason for this, and it was because scientists realized that with three equally spaces axes, measurements are rotationally invariant and generally more stable to test. This means the newer method is a lot more realistic to obtain results efficiently/effectively in the lab.  Why does this matter? with three angles, we have a different upper bound - 
+
+
+
+
+
+
+
 
 
 Here is a timeline of this project, for those why may be interested (dd/mm/yyyy):<br />
@@ -26,6 +43,7 @@ Here is a timeline of this project, for those why may be interested (dd/mm/yyyy)
 
 
 Here is a list of resources I used to complete this project:<br />
+https://quantum.cloud.ibm.com/docs/en/tutorials/chsh-inequality - IBM Quantum CHSH tutorial <br />
 https://www.youtube.com/watch?v=pS69lqCMdy8 - IBM video on bell's inequality<br />
 https://www.youtube.com/watch?v=qd-tKr0LJTM - Bell's inequality by a professor on youtube<br />
 https://medium.com/quantum-untangled/quantum-states-and-the-bloch-sphere-9f3c0c445ea3 - Bloch Spheres<br />
