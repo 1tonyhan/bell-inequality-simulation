@@ -65,7 +65,14 @@ https://www.youtube.com/watch?v=WT91B2tyO2k - CHSH experiment video <br />
 Generative AI was used in the following way:
 I learned the content from websites or videos, and asked ChatGPT to listen to me explain the topics to it, and give me critique on what I understand vs what I don't. I was able to consolidate my knowledge much more effectively this way.
 
+<br />
 
+
+
+
+
+
+<br />
 
 <a name="note_about_bounds">1</a>: Here, I realized much later into the project that with IBM's tutorial, they recreate a more accessible experiment/visualization of bell's theorem with 3 axes rather than the original 2. I looked up the reason for this, and it was because scientists realized that with three equally spaces axes, measurements are rotationally invariant and generally more stable to test. This means the newer method is a lot more realistic to obtain results efficiently/effectively in the lab.  Why does this matter? with three angles, we have a different upper bound - 
 
