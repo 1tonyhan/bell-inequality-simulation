@@ -59,6 +59,8 @@ Here, I took a vacation, and then school started, where I started focusing on my
   
 
 
+
+<br />
 Here is a list of resources I used to complete this project:<br />
 https://quantum.cloud.ibm.com/docs/en/tutorials/chsh-inequality - IBM Quantum CHSH tutorial <br />
 https://www.youtube.com/watch?v=pS69lqCMdy8 - IBM video on bell's inequality<br />
@@ -68,7 +70,15 @@ https://qubit.guide/6.3-chsh-inequality - CHSH Inequality; online textbook<br />
 https://www.youtube.com/watch?v=EPG8ELV_9oM - CHSH Inequality video <br />
 https://www.youtube.com/watch?v=WT91B2tyO2k - CHSH experiment video <br />
 
-Generative AI was used in the following way:
+<br />
+
+
+<br />
+
+
+<br />
+
+Generative AI was used in the following way:<br />
 I learned the content from websites or videos, and asked ChatGPT to listen to me explain the topics to it, and give me critique on what I understand vs what I don't. I was able to consolidate my knowledge much more effectively this way.
 
 <br />
