@@ -2,7 +2,8 @@
 
 <br />
 
-The first file contains the summary of the project, which is essentially what I learned. I think the learning process was definitely tedious at first, but it got interesting quite quickly. In this file,
+
+The first file contains the summary of the project, which is essentially everything I learned. I think the learning process was definitely tedious at first, but it got interesting quite quickly. In this file,
 I explain the way the CHSH experiment works, in the way I understand it from my self studies. 
 
 <br />
