@@ -32,13 +32,13 @@ Now, for quantum mechanics: it turns out, if we look at the quantum mechanics si
 
 ...
 
-[^1] Here, I realized much later into the project that with IBM's tutorial, they recreate a more accessible experiment/visualization of bell's theorem with 3 axes rather than the original 2. I looked up the reason for this, and it was because scientists realized that with three equally spaces axes, measurements are rotationally invariant and generally more stable to test. This means the newer method is a lot more realistic to obtain results efficiently/effectively in the lab.  Why does this matter? with three angles, we have a different upper bound - 
 
 
 
 
 
 
+...
 
 
 
@@ -50,6 +50,12 @@ Here is a timeline of this project, for those why may be interested (dd/mm/yyyy)
   -03/07/2025 - installation and learning of how to use qiskit and python, and how to link to IBM cloud servers to access real quantum hardware. <br />
   -07/07/2025 - Research of Bloch Spheres to improve understanding of quantum states. <br />
   -07/28/2025 - Research of the CHSH Inequality: more experimentally friendly version of the Bell inequality <br />
+
+Here, I took a vacation, and then school started, where I started focusing on my studies more. I resumed this project much later after adjusting to my engineering physics workload, and finishing my first round of midterms.
+  
+  -10/23/2025 - Review of the CHSH experiment, using the IBM video. Followed the IBM tutorial and set up a virtual environment .venv for a jupyterNotebook, and actually performed the CHSH experiment on IBM QPUs by linking my IBM quantum platform account to the code. Plotted results.
+  -10/25/2025 - Updated this ReadMe file, and further consolidated my understanding of how the upper bounds for hidden variable theory vs quantum mechanics was determined. I am still slightly confused about the quantum mechanics upper bound, so I will revisit tomorrow.
+  -10/26/2025 - 
   
 
 
