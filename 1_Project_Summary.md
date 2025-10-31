@@ -1,11 +1,12 @@
 # Bell's Theorem and the CHSH Inequality
+
 **Summer project - July 2025.**
 
 In this project, I explore the basics of quantum computing and how experimentation around Bell's theorem (through qiskit and using IBM cloud server QPUs) demonstrates violation of classical behaviour - pointing to non-classical behaviour, namely, entanglement.  
 
 For this project, I followed IBM Quantum Platform's CHSH experiment tutorial, which I have linked in my Resources Used.md file, along with all of the other resources I used for this project. 
 
-**Here is a summary of the Bell theorem as I understand it:**
+### Here is a summary of the Bell theorem as I understand it:
 
 First, to set the stage: I will use the example of a particle with a spin of 0 that decays into two smaller, separate particles with spin up or down. For simplicity, I will call these particles A and B henceforth. I will also set the premise that there is an assumption of no other angular momentum other than spin in this situation; meaning spin is conserved. This is an ideal assumption and makes this topic easier for me to understand.
 
@@ -21,7 +22,7 @@ One can postulate that in this case, there is a certain maximum probability that
 
 Well we have two theories to explain this. One is hidden variable theory, or classical mechanics, and the other is quantum mechanics. What are any of these? I will try my best to explain that here:
 
-**Hidden variable theory** is like a set of rules that A and B must obey. For example, one rule is that if A is measured to have spin up along Z, B must be measured to have spin down along Z. (provided they started from a spin 0 particle). With this logic, we can build a set of rules for these 2 particles A and B. Essentially, this set shows all the possible states of the axes for A, and then all the corresponding possible states of the axes for B. Below is an image of the set of rules for A and B on 3 measurement axes:
+***Hidden variable theory*** is like a set of rules that A and B must obey. For example, one rule is that if A is measured to have spin up along Z, B must be measured to have spin down along Z. (provided they started from a spin 0 particle). With this logic, we can build a set of rules for these 2 particles A and B. Essentially, this set shows all the possible states of the axes for A, and then all the corresponding possible states of the axes for B. Below is an image of the set of rules for A and B on 3 measurement axes:
 
 
 <img src="/images/hiddenVariableRules.png" width="550">
@@ -34,7 +35,7 @@ From this table, we can obtain the possibilities that the observer recieves the 
 <br />
 <br />
 
-**Now, for quantum mechanics:** it turns out, if we look at the quantum mechanics side of things, the probability that this observer recieves the same number from A and B can exceed 4/9! How does this happen?
+***Now, for quantum mechanics:*** it turns out, if we look at the quantum mechanics side of things, the probability that this observer recieves the same number from A and B can exceed 4/9! How does this happen?
 
 Exceeding the probability value of 4/9 for measuring the same spin along any 2 axis is given by a bit of geometry and linear algebra stemming from something called a bloch sphere. 
 
