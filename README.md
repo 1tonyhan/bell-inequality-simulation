@@ -1,7 +1,7 @@
-**#Welcome to my CHSH project! I have a few files, and I have numbered them in the order you should read them!#**
+# Welcome to my CHSH personal project! I have a few files, and I have numbered them in the order you should read them!
 
 <br />
-
+In this project, I just explored the CHSH experiment that won the 2021 nobel prize in physics out of personal curiosity. I tried to understand as much as I could, and documented it all here :)
 
 The first file contains the summary of the project, which is essentially everything I learned. I think the learning process was definitely tedious at first, but it got interesting quite quickly. In this file,
 I explain the way the CHSH experiment works, in the way I understand it from my self studies. 
