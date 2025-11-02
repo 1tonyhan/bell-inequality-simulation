@@ -4,7 +4,7 @@ I think that this concept is quite important for understanding where the probabi
 
 I will not delve too deeply into how a bloch sphere works, as that is not the focus of my project; I will offer a brief overview of what I think you would need to know, to understand where the upper bound in the CHSH experiment for quantum mechanics' argument comes from. Essentially, a bloch sphere is a way to represent quantum states in a more visually accessible way, to make it easier for our human brains to understand. Here is a brief explanation: 
 
-A qubit or quantum state is represented by: 
+A qubit or quantum state $\ket{\psi}$ is represented by: 
 
 $$\ket{\psi} = \alpha \ket{0} + \beta \ket{1}$$
 
