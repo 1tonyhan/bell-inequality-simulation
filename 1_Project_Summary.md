@@ -42,11 +42,13 @@ From this table, we can obtain the possibilities that the observer recieves the 
 
 ***Now, for quantum mechanics:*** it turns out, if we look at the quantum mechanics side of things, the probability that this observer recieves the same number from A and B can exceed 4/9! How does this happen?
 
-Exceeding the probability value of 4/9 for measuring the same spin along any 2 axis is given by a bit of geometry and linear algebra stemming from something called a bloch sphere. 
+Exceeding the probability value of 4/9 for measuring the same spin along any 2 axis is given by a bit of geometry and linear algebra stemming from something called a bloch sphere.
+
+
+<a name="blochAnchor"></a>
 
 I will explain the bloch sphere in [a separate file](2_Aside_on_Bloch_Spheres.md), as it goes a bit more into the nitty gritty of things called qubits, which utilize this quantum behaviour to enable quantum computing! Please give it a read, as I think it will help greatly with understanding where the rest of what I am about to explain comes from :)
 
-<a name="blochAnchor"></a>
 
 Anyhow, from the bloch sphere, we get the behaviour that in quantum mechanics: on a given particle, the probability of measuring the same spin along 2 axes X and Y separated by an angle theta is given by this formula:
 
