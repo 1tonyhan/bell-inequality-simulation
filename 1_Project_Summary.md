@@ -46,6 +46,8 @@ Exceeding the probability value of 4/9 for measuring the same spin along any 2 a
 
 I will explain the bloch sphere in [a separate file](2_Aside_on_Bloch_Spheres.md), as it goes a bit more into the nitty gritty of things called qubits, which utilize this quantum behaviour to enable quantum computing! Please give it a read, as I think it will help greatly with understanding where the rest of what I am about to explain comes from :)
 
+<a name="blochAnchor"></a>
+
 Anyhow, from the bloch sphere, we get the behaviour that in quantum mechanics: on a given particle, the probability of measuring the same spin along 2 axes X and Y separated by an angle theta is given by this formula:
 
 $$P(same) = \cos^2(\frac{\theta}{2})$$
