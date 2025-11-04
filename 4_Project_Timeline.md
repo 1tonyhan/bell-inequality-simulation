@@ -20,5 +20,5 @@ Here, I was on vacation with my family (I went to various places in France and I
   -11/__/2025 - Wrote a little snippit about what it actually means and why this quantum behaviour is significant in the real world.<br />
   -11/_/2025 - uploaded my jupyter notebook file that was run on IBM QPUs through IBM Quantum platform
 
-  That marks my journey for this project :D <br />
+  That marks the end of my journey for this project :D <br />
   I hope you learned something and/or found this interesting!<br />
