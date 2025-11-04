@@ -60,15 +60,18 @@ So lets look at the two other axes on B.
 
 In this case, we already know that the spin along axis 1 on particle B is down. Let's use this fact, in tandem with the rule $$P(same) = \cos^2(\frac{\theta}{2})$$ to examine the spin on axis 2 and 3:
 
-**insert first diagram here
+<img src="/images/case1.png" width="550">
+
+**Figure 1.3: Quantum Mechanics, case 1**
 
 
 As we can see, the angle formed by the spin down vector on B with axis 2 or 3 is $60^{\circ}$. Using the cosine rule, we get that there is a 3/4 chance that 2 or 3 will be measured as spin down, meaning a 1/4 chance to be measured as spin up and thus the same as particle A's measurement. Keep this value 1/4 in mind.
 
 This is not the end of it!! we previously assumed that A is measured as spin up along axis 1. There is another case, where A is measured as spin down along 1, so B is measured spin up along 1! The numbers for B come along slightly differently:
 
-**insert second diagram here
+<img src="/images/case2.png" width="550">
 
+**Figure 1.4: Quantum Mechanics, case 1**
 
 
 Here, we can see that the angle formed by the spin up vector on B with axis 2 or 3 is now $120^{\circ}$! So following the cosine rule: we get that there is a 1/4 chance that 2 or 3 will be measured as spin up, meaning a 3/4 chance to be measured as spin down and matching particle A's measurement.
