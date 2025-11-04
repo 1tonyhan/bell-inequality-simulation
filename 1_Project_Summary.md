@@ -33,8 +33,9 @@ Well we have two theories to explain this. One is hidden variable theory, or cla
 <br />
 Note: in this table, I have set spin down is 0 and spin up is 1.
 
+<br />
 
-From this table, we can obtain the possibilities that the observer recieves the same value from the people looking at A and B. Basically, in any given row, if you pick one of the three values from A, and one of the three values from B, the probability they are the same number is 4/9 for all apart from the cases in the first and last rows. So this is the maximum possibility that the observer recieves the same number from A and B, if hidden variable theory is followed; an upper bound in this theory <sup><a id="fn1-ref" href="#fn1">1</a></sup>.
+From this table, we can obtain the possibilities that the observer recieves the same value from the people looking at A and B. Basically, in any given row (apart from the first and last; I will exclude these as they have no chance of meeting the requirements), if you pick one of the three values from A, and one of the three values from B, the probability they are the same number is 4/9 for all apart from the cases in the first and last rows. So this is the maximum possibility that the observer recieves the same number from A and B, if hidden variable theory is followed; 4/9 is an upper bound in this theory <sup><a id="fn1-ref" href="#fn1">1</a></sup>.
 
 <br />
 <br />
