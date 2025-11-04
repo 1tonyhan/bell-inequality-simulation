@@ -83,11 +83,12 @@ Here, we can see that the angle formed by the spin up vector on B with axis 2 or
 
 Now we have these 2 values, 1/4 and 3/4. What do we do now? Well, we know that A has a 50% chance to be measured as spin up along 1, and a 50% chance to be measured as spin down along 1. So knowing that either case is equally probable to occur, we can simply take the average of 1/4 and 3/4, giving us a value of 1/2!
 
-And whaddya know, 1/2 is larger than that value of 4/9 we got from classical mechanics! We can exceed the maximum correlation that classical mechanics predicts; Quantum mechanics beats classical mechanics!
+And whaddya know, 1/2 is larger than that value of 4/9 we got from classical mechanics! We can exceed the maximum correlation that classical mechanics predicts; Quantum mechanics beats classical mechanics! (by 0.5/9, or about 0.05555... lol)
 
 And the beauty? It holds regardless of which orientation we look at; whether we make the assumptions we did about axis 1, 2 or 3 on A; this experiment is rotationally symmetric!!
 
-That's pretty cool, but what are the implications, if there even are any? What difference does 0.5/9 even make? (1/2-4/9)
+That's pretty cool, but what are the implications, if there even are any? What difference does a value of 0.5/9 even make? Why is this worth winning the 2021 nobel prize in physics for?
+
 
 
 
