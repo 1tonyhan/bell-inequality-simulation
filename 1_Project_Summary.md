@@ -17,6 +17,7 @@ Now what if we set 3 axis of measurement rather than 1? Now, even with the measu
 <img src="/images/threeAxis.png" width="550">
 
 **Figure 1.1: 3 Axes to measure spin along; For simplicity, all axes are in the same plane, and separated by $120^{\circ}$**
+<a name="threeAxis"></a>
 
 One can postulate that in this case, there is a certain maximum probability that the values the third observer recieves are the same! What is this maximum probability?
 
@@ -42,14 +43,43 @@ From this table, we can obtain the possibilities that the observer recieves the 
 
 Exceeding the probability value of 4/9 for measuring the same spin along any 2 axis is given by a bit of geometry and linear algebra stemming from something called a bloch sphere. 
 
-I will explain the bloch sphere in [a separate file](2_Aside_on_Bloch_Spheres.md), as it goes a bit more into the nitty gritty of things called qubits, which utilize this quantum behaviour to enable quantum computing!
+I will explain the bloch sphere in [a separate file](2_Aside_on_Bloch_Spheres.md), as it goes a bit more into the nitty gritty of things called qubits, which utilize this quantum behaviour to enable quantum computing! Please give it a read, as I think it will help greatly with understanding where the rest of what I am about to explain comes from :)
 
 Anyhow, from the bloch sphere, we get the behaviour that in quantum mechanics: on a given particle, the probability of measuring the same spin along 2 axes X and Y separated by an angle theta is given by this formula:
 
 $$P(same) = \cos^2(\frac{\theta}{2})$$
 
-Going back to our example of 
+Okay, so how does this relate to our example of particles A and B, each with 3 axes to measure spin along?
 
+Let me set up a test/example case. Suppose that:
+
+- Along one of the axes on particle A (lets say axis 1, the upwards axis for now - see [figure 1.1](#threeAxis)), we measure spin up. That means along the same axis, we must measure spin down on B.
+- Recall that we have an external observer that recieves either 'spin up' or 'spin down' from A and B. We want the probability that the observer recieves the SAME response; so looking at the same axis on B is useless.
+
+So lets look at the two other axes on B.
+
+In this case, we already know that the spin along axis 1 on particle B is down. Let's use this fact, in tandem with the rule $$P(same) = \cos^2(\frac{\theta}{2})$$ to examine the spin on axis 2 and 3:
+
+**insert first diagram here
+
+
+As we can see, the angle formed by the spin down vector on B with axis 2 or 3 is $60^{\circ}$. Using the cosine rule, we get that there is a 3/4 chance that 2 or 3 will be measured as spin down, meaning a 1/4 chance to be measured as spin up and thus the same as particle A's measurement. Keep this value 1/4 in mind.
+
+This is not the end of it!! we previously assumed that A is measured as spin up along axis 1. There is another case, where A is measured as spin down along 1, so B is measured spin up along 1! The numbers for B come along slightly differently:
+
+**insert second diagram here
+
+
+
+Here, we can see that the angle formed by the spin up vector on B with axis 2 or 3 is now $120^{\circ}$! So following the cosine rule: we get that there is a 1/4 chance that 2 or 3 will be measured as spin up, meaning a 3/4 chance to be measured as spin down and matching particle A's measurement.
+
+Now we have these 2 values, 1/4 and 3/4. What do we do now? Well, we know that A has a 50% chance to be measured as spin up along 1, and a 50% chance to be measured as spin down along 1. So knowing that either case is equally probable to occur, we can simply take the average of 1/4 and 3/4, giving us a value of 1/2!
+
+And whaddya know, 1/2 is larger than that value of 4/9 we got from classical mechanics! We can exceed the maximum correlation that classical mechanics predicts; Quantum mechanics beats classical mechanics!
+
+And the beauty? It holds regardless of which orientation we look at; whether we make the assumptions we did about axis 1, 2 or 3 on A; this experiment is rotationally symmetric!!
+
+That's pretty cool, but what are the implications, if there even are any? What difference does 0.5/9 even make? (1/2-4/9)
 
 
 
