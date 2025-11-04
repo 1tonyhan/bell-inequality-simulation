@@ -67,5 +67,5 @@ So for example: on particle A, given 2 axes X and Y separated by an angle $\thet
 
 The same can be said about an X and Y on particle B!
 
-Now that you understand where this cosine relationship comes from, you can [return to the original document!](1_Project_summary.md#blochAnchor).
+Now that you understand where this cosine relationship comes from, you can [return to the original document!](1_Project_Summary.md#blochAnchor).
 
