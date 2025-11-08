@@ -58,7 +58,7 @@ Okay, so how does this relate to our example of particles A and B, each with 3 a
 
 Let me set up a test/example case. Suppose that:
 
-- Along one of the axes on particle A (lets say axis 1, the upwards axis for now - see [figure 1.1](#threeAxis)), we measure spin up. That means along the same axis, we must measure spin down on B.
+- Along one of the axes on particle A (lets say axis 1, the upwards axis for now - see figure 1.1 or the figure 1.3 below), we measure spin up. That means along the same axis, we must measure spin down on B.
 - Recall that we have an external observer that recieves either 'spin up' or 'spin down' from A and B. We want the probability that the observer recieves the SAME response
 
 
@@ -120,7 +120,7 @@ That's pretty cool, but what are the implications, if there even are any? What d
 
 [1] Here, I realized much later into the project that with IBM's tutorial, they recreate a more accessible experiment/visualization of bell's theorem with 3 axes rather than the original 2. I looked up the reason for this, and it was because scientists realized that with three equally spaces axes, measurements are rotationally invariant and generally more stable to test. This means the newer method is a lot more realistic to obtain results efficiently/effectively in the lab.  Why does this matter? with three angles, we have a different upper bound - 
 
-[↩](#fn1-ref)
+[return to [1]](#fn1-ref)
 <a id="fn1-ref"></a>
 
 
