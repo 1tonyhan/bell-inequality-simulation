@@ -59,9 +59,10 @@ Okay, so how does this relate to our example of particles A and B, each with 3 a
 Let me set up a test/example case. Suppose that:
 
 - Along one of the axes on particle A (lets say axis 1, the upwards axis for now - see [figure 1.1](#threeAxis)), we measure spin up. That means along the same axis, we must measure spin down on B.
-- Recall that we have an external observer that recieves either 'spin up' or 'spin down' from A and B. We want the probability that the observer recieves the SAME response; so looking at the same axis on B is useless.
+- Recall that we have an external observer that recieves either 'spin up' or 'spin down' from A and B. We want the probability that the observer recieves the SAME response
 
-So lets look at the two other axes on B.
+
+Looking at the same axis on B will obviously given the observer 2 different responses, so it is not so useful; So lets look at the two other axes on B.
 
 In this case, we already know that the spin along axis 1 on particle B is down. Let's use this fact, in tandem with the rule $$P(same) = \cos^2(\frac{\theta}{2})$$ to examine the spin on axis 2 and 3:
 
