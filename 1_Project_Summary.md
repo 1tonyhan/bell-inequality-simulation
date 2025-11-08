@@ -77,7 +77,7 @@ This is not the end of it!! we previously assumed that A is measured as spin up 
 
 <img src="/images/case2.png" width="550">
 
-**Figure 1.4: Quantum Mechanics, case 1**
+**Figure 1.4: Quantum Mechanics, case 2**
 
 
 Here, we can see that the angle formed by the spin up vector on B with axis 2 or 3 is now $120^{\circ}$! So following the cosine rule: we get that there is a 1/4 chance that 2 or 3 will be measured as spin up, meaning a 3/4 chance to be measured as spin down and matching particle A's measurement.
