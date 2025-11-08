@@ -12,7 +12,7 @@ What do any of these mean?
 
 $\ket{0}$ is essentially a state where there is a 100% chance to measure spin up, whereas $\ket{1}$ is essentially a state where there is a 100% chance to measure spin down. (you can think of these as non quantum states, or classical states - In reality, they are 'quantum basis states' which are analogues of the classical states).
 
-The quantum state $\ket{\psi}$ is basically composed of a superposition of the two basis states $\ket{0}$ and $\ket{1}$. These two classical states have probability amplitudes, $\alpha$ and $\beta$ respecively. They are special in that $\alpha^2 + \beta^2 = 1$ (the probability of measuring something in the quantum state $\ket{\psi}$ is 1), and $\alpha^2$ is the probability of measuring $\ket{0}$; $\beta^2$ is the probability of measuring $\ket{1}$.
+The quantum state $\ket{\psi}$ is basically composed of a superposition of the two basis states $\ket{0}$ and $\ket{1}$. These two classical states have probability amplitudes, $\alpha$ and $\beta$ respecively. They are special in that $\alpha^2 + \beta^2 = 1$ (the probability of measuring something in the quantum state $\ket{\psi}$ is 1; you can't measure nothing), and $\alpha^2$ is the probability of measuring $\ket{0}$; $\beta^2$ is the probability of measuring $\ket{1}$.
 
 However, we have a problem in representing such a state in reality: $\alpha$ and $\beta$ are complex numbers! That means that both values have a real and an imaginary part. So theoretically, to represent a quantum state $\ket{\psi}$ as is, we would need some 4 dimentional graph... which is super hard to visualize. So researchers set out to find a better 'tool' to visualize these quantum states. 
 
