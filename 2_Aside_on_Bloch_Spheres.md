@@ -20,7 +20,7 @@ Eventually, researchers were able to connect the work of physicist Felix Bloch t
 
 I will not show the derivation of how the bloch sphere represents this, as that is not one of my goals for this project; it is also because I don't understand it well enough to feel confident explaining it.
 
-Basically, through some elegant 'massaging' of the equation for $\ket{\psi}$, a conversion to polar coordinates, then using euler's identity and some geometry, the the form of a qubit can be represented as a vector in a 3d unit sphere. This vector only requires 2 parameters as opposed to the 4 we would need if we did not have the bloch sphere. These two parameters are $\phi$ and $\theta$. $\phi$ represents the angle between the positive x axis, and the vector's projection onto the x-y plane.  $\theta$ represents the angle between the positive Z axis and the vector itself.
+Basically, through some 'massaging' of the equation for $\ket{\psi}$, a conversion to polar coordinates, then using euler's identity and some geometry, the the form of a qubit can be represented as a vector in a 3d unit sphere. This vector only requires 2 parameters as opposed to the 4 we would need if we did not have the bloch sphere. These two parameters are $\phi$ and $\theta$. $\phi$ represents the angle between the positive x axis, and the vector's projection onto the x-y plane.  $\theta$ represents the angle between the positive Z axis and the vector itself.
 
 If you are familiar with a 3d polar coordinate system, this is exactly the same concept!
 
